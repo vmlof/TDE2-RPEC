@@ -1,5 +1,5 @@
 
-# 🌳 README – Implementação de Árvore 2-3 em Java
+# 🌳 Implementação de Árvore 2-3 em Java
 
 <div align="center">
   <img src="src/imagens/23arvore.jpg"  />
