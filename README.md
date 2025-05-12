@@ -46,22 +46,28 @@ A classe `Main` já inclui exemplos práticos de todas as operações:
 
 ```java
 int[] valores = {10, 20, 5, 6, 12, 30, 7, 17};
-for (int valor : valores) {
-    arvore.inserir(valor);
+int tamanhoInsercao = 8;
+
+for(int i = 0; i < tamanhoInsercao; i++) {
+    arvore.inserir(valores[i]);
 }
 ```
 
 ```java
 int[] buscas = {5, 10, 15, 30};
-for (int valor : buscas) {
-    arvore.buscar(valor);
+int tamanhoBusca = 4;
+
+for(int j = 0; j < tamanhoBusca; j++) {
+    arvore.buscar(buscas[j]);
 }
 ```
 
 ```java
 int[] remover = {6, 10, 12};
-for (int valor : remover) {
-    arvore.remover(valor);
+int tamanhoRemocao = 3;
+
+for(int k = 0; k < tamanhoRemocao; k++) {
+    arvore.remover(remover[k]);
 }
 ```
 
