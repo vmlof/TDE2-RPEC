@@ -2,7 +2,7 @@
 # 🌳 Implementação de Árvore 2-3 em Java
 
 <div align="center">
-  <img src="src/imagens/23arvore.jpg"  />
+  <img src="src/imagens/23arvore.png"  />
 </div>
 
 ## 📌 O que é uma Árvore 2-3?
@@ -94,3 +94,13 @@ for(int k = 0; k < tamanhoRemocao; k++) {
 - [x] Remoção com rebalanceamento
 - [x] Impressão em ordem
 - [x] Estrutura 100% balanceada
+
+
+---
+
+## 🎥 Vídeo explicativo
+
+✅ O vídeo de apresentação do projeto está disponível no YouTube em:  
+[**https://www.youtube.com/watch?v=G1il3TekA0o**](https://www.youtube.com/watch?v=G1il3TekA0o)
+
+---
